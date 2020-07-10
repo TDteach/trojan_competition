@@ -1,0 +1,6 @@
+[submodule "neural_cleanse"]
+	path = neural_cleanse
+	url = https://github.com/TDteach/neural_cleance.git
+[submodule "trojai-example"]
+	path = trojai-example
+	url = https://github.com/TDteach/trojai-example.git
